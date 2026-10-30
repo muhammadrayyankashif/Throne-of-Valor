@@ -2,6 +2,8 @@
 
 A browser-based, two-player fantasy fighting game built with JavaScript and Phaser 3. Includes tournament and survival modes, character paths, arena hazards, weapons, and special combat abilities.
 
+**[Play Throne of Valor on itch.io](https://muhammadrayyan.itch.io/throneofvalor)**
+
 ## Play
 
 Open `index.html` in a browser with an internet connection. Phaser 3.70 is loaded from jsDelivr.
